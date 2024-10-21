@@ -1,0 +1,19 @@
+.odd-elem {
+    background-color: #ff9f9f;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#no2 {
+    background-color: #0101ff;
+    font-size: 36px;
+}
+
+#no3 {
+    font-size: 24px;
+}
+
+#no4 {
+    background-color: #60ff60;
+    font-size: 24px;
+    font-weight: bold;
+}
